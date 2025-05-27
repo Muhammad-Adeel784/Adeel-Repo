@@ -1,1 +1,3 @@
 # Adeel-Repo
+This is my first git Repository...
+Author - Adeel Majeed
